@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB419&width=435&lines=Hey+I'm+Sotiris!+👋;I+code+and+try+not+to+break+stuff.)](https://git.io/typing-svg)
 
-## About me
+## 📘 About me
 Just a passionate new Full-Stack Developer trying to build beautiful, functional and user-centric applications!
 
 🔭 I’m working on my notes app project
@@ -40,7 +40,7 @@ Coding Languages and Frameworks experience in a glimpse:
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=STzelas&layout=compact&theme=dark&center=true" />
 </p>
 
-## My Progress
+## 📊 My Progress
 
 <p align="center">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=STzelas&theme=dark&date_format=j%2Fn%5B%2FY%5D&card_height=150&center=true" />
