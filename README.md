@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Sotiris!+👋;I+code+and+try+not+to+break+stuff.)](https://git.io/typing-svg)
 
 # About me
-Just a new developer trying to make sense of it all and create projects that do not crash (hopefully).
-
+Just a passionate new Full-Stack Developer trying to build beautiful, functional and user-centric applications!
 # Coding Experience
 
 Coding Languages and Frameworks experience in a glimpse
