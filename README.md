@@ -14,7 +14,7 @@ Coding Languages and Frameworks experience in a glimpse:
 
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres,python" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman" />
 </p>
 
